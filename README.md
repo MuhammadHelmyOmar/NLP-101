@@ -1,4 +1,4 @@
-# NLP Pipline
+# Practical NLP
 I followed this pipline inspired from [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/).
 I tried to apply the tasks on Arabic text.
 
